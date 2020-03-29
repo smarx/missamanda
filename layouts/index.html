@@ -3,7 +3,7 @@
 <h1>{{ .Title | markdownify }}</h1>
 {{ .Content }}
 
-<h2>We'll put some stuff here.</h2>
+<h2>We'll put blog posts and whatnot here.</h2>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ range first 1 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
