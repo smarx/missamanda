@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Miss Amandy's Website"
+theme = "personal-web"
+publishDir = "docs"
+
+[params.sidebar]
+  logo = "mandy.jpg"
+  backgroundImage = "toddler.jpg"
+
+[params.intro]
+  main = "Hi, I'm Miss Amandy :wave:"
+  sub = "I'm a Montessori teacher"
+
+[params.assets]
+  customCSS = "style.css"
