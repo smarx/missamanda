@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sensorial on Miss Amandy&#39;s Website</title>
-    <link>http://example.org/curriculum/sensorial/</link>
-    <description>Recent content in sensorial on Miss Amandy&#39;s Website</description>
+    <title>Body Balance on Miss Amandy&#39;s Website</title>
+    <link>http://example.org/skills/body-balance/</link>
+    <description>Recent content in Body Balance on Miss Amandy&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 18:32:05 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/curriculum/sensorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/skills/body-balance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,15 +23,6 @@ Obtain and unroll a rug in the accepted manner.
 Walk to the area of the room containing the tower of cubes.
 Bend down to eye level to admire the tower.
 Using a three-finger grasp of your dominant hand slide the smallest cube toward you while supporting the base of the cube with your subdominant hand.</description>
-    </item>
-    
-    <item>
-      <title>Making a Turkey</title>
-      <link>http://example.org/lesson-plan/making-a-turkey/</link>
-      <pubDate>Sun, 29 Mar 2020 17:28:02 -0700</pubDate>
-      
-      <guid>http://example.org/lesson-plan/making-a-turkey/</guid>
-      <description>hi Just make the turkey. It&amp;rsquo;s pretty easy.</description>
     </item>
     
   </channel>

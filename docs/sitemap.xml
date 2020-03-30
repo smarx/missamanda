@@ -18,12 +18,47 @@
   </url>
   
   <url>
+    <loc>http://example.org/skills/awareness-of-exactitude/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/body-balance/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/concentration/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/coordination/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/curriculum/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/hand-eye-coordination/</loc>
+    <loc>http://example.org/skills/development-of-visual-and-muscular-discrimination/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/fine-motor-control/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/gradation/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/gross-motor-control/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
@@ -33,7 +68,22 @@
   </url>
   
   <url>
+    <loc>http://example.org/skills/independence/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/lesson-plan/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/order/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/preparation-for-math-base-ten/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
@@ -50,6 +100,11 @@
   <url>
     <loc>http://example.org/lesson-plan/tower-of-cubes/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/hand-eye-coordination/</loc>
+    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
   </url>
   
   <url>
