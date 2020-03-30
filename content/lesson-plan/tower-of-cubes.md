@@ -26,51 +26,51 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 ## Presentation:
 
-Invite the child to work with the tower of cubes.
+1. Invite the child to work with the tower of cubes.
 
-Obtain and unroll a rug in the accepted manner.
+2. Obtain and unroll a rug in the accepted manner.
 
-Walk to the area of the room containing the tower of cubes.
+3. Walk to the area of the room containing the tower of cubes.
 
-Bend down to eye level to admire the tower.
+4. Bend down to eye level to admire the tower.
 
-Using a three-finger grasp of your dominant hand slide the smallest cube toward you while supporting the base of the cube with your subdominant hand.
+5. Using a three-finger grasp of your dominant hand slide the smallest cube toward you while supporting the base of the cube with your subdominant hand.
 
-Carry the cube carefully to the rug. Place in a random fashion on the rug being sure to leave a space on the front center area of the rug.
+6. Carry the cube carefully to the rug. Place in a random fashion on the rug being sure to leave a space on the front center area of the rug.
 
-Continue to carry the next two cubes to the work rug in the same manner.
+7. Continue to carry the next two cubes to the work rug in the same manner.
 
-On or about the fourth cube, switch to a four-finger grasp, and continue to slide each cube onto your subdominant hand. Then place the cube randomly on the rug.
+8. On or about the fourth cube, switch to a four-finger grasp, and continue to slide each cube onto your subdominant hand. Then place the cube randomly on the rug.
 
-On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
+9. On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
 
-For the ninth and tenth cubes use a sandwich grasp (hands and fingers flattened) to secure and carry the cubes to the work rug.  
+10. For the ninth and tenth cubes use a sandwich grasp (hands and fingers flattened) to secure and carry the cubes to the work rug.  
 
-When all cubes have been placed on the rug, sit down and scan the random grouping of cubes.
+11. When all cubes have been placed on the rug, sit down and scan the random grouping of cubes.
 
-Locate the largest cube, grasp it in the accepted manner, and place it at the front center of the work space.
+12. Locate the largest cube, grasp it in the accepted manner, and place it at the front center of the work space.
 
-Scan the cubes and isolate the extremes by picking up the smallest cube in the accepted manner and placing it on top of the largest cube.
+13. Scan the cubes and isolate the extremes by picking up the smallest cube in the accepted manner and placing it on top of the largest cube.
 
-Carefully examine the two extremes.
+14. Carefully examine the two extremes.
 
-Return the smallest cube to the random grouping.
+15. Return the smallest cube to the random grouping.
 
-Leaving the largest cube where it is, scan the random grouping and locate the next largest cube.
+16. Leaving the largest cube where it is, scan the random grouping and locate the next largest cube.
 
-Pick up the cube in the accepted manner sliding it front to back onto the center of the bottom cube.  Pause and look at the placement.
+17. Pick up the cube in the accepted manner sliding it front to back onto the center of the bottom cube.  Pause and look at the placement.
 
-Scan the random grouping and locate the next largest cube, pick it up in the accepted manner, and slide it front to back onto the center of the previously placed cube. Pause to take a moment to admire your work.
+18. Scan the random grouping and locate the next largest cube, pick it up in the accepted manner, and slide it front to back onto the center of the previously placed cube. Pause to take a moment to admire your work.
 
-Repeat #18 until all cubes have been arranged in decending order and the tower has been assembled.  
+19. Repeat #18 until all cubes have been arranged in decending order and the tower has been assembled.  
 
-Pause to admire the completed tower.  Appear pleased and proud.
+20. Pause to admire the completed tower.  Appear pleased and proud.
 
-Disassemble tower, handling each cube in the accepted manner, return the cubes to the work rug in a random order.
+21. Disassemble tower, handling each cube in the accepted manner, return the cubes to the work rug in a random order.
 
-Beginning with the largest cube, carry each cube in the accepted manner and return it to its proper place on the shelf.  Reassembling the tower as described in #18.
+22. Beginning with the largest cube, carry each cube in the accepted manner and return it to its proper place on the shelf.  Reassembling the tower as described in #18.
 
-Re-roll the rug and return it to its proper place.
+23. Re-roll the rug and return it to its proper place.
 
 ## Points of Interest:
 
