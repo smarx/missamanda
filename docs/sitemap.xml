@@ -4,37 +4,52 @@
   
   <url>
     <loc>http://example.org/ages/2/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/ages/3/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/ages/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/curriculum/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/skills/hand-eye-coordination/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/lesson-plan/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/curriculum/sensorial/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/skills/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lesson-plan/tower-of-cubes/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
@@ -44,16 +59,6 @@
   
   <url>
     <loc>http://example.org/skills/making-stevo-happy/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/curriculum/sensorial/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/skills/</loc>
     <lastmod>2020-03-29T17:28:02-07:00</lastmod>
   </url>
   
