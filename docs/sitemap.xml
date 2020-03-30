@@ -7,7 +7,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/ages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/curriculum/</loc>
   </url>
   
   <url>
@@ -15,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/skills/</loc>
   </url>
   
 </urlset>

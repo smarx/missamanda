@@ -13,4 +13,9 @@ publishDir = "docs"
   sub = "I'm a Montessori teacher"
 
 [params.assets]
-  customCSS = "style.css"
+  customCSS = "/style.css"
+
+[taxonomies]
+  age = "ages"
+  skill = "skills"
+  curriculum = "curriculum"
