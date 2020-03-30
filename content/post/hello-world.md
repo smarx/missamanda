@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2020-03-29T17:20:54-07:00
-draft: true
 ---
 
 This is my blog post.

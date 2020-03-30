@@ -6,9 +6,33 @@
     <description>Recent content in HOME on Miss Amandy&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 17:28:02 -0700</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making a Turkey</title>
+      <link>http://example.org/lesson-plan/making-a-turkey/</link>
+      <pubDate>Sun, 29 Mar 2020 17:28:02 -0700</pubDate>
+      
+      <guid>http://example.org/lesson-plan/making-a-turkey/</guid>
+      <description>hi Just make the turkey. It&amp;rsquo;s pretty easy.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/post/hello-world/</link>
+      <pubDate>Sun, 29 Mar 2020 17:20:54 -0700</pubDate>
+      
+      <guid>http://example.org/post/hello-world/</guid>
+      <description>This is my blog post.
+Section 1 Stuff.
+Section 2 Fancy stuff!
+ one thing another thing  Those are bullets.
+These are numbers:
+ step 1 step 2 step 3  This is Google</description>
+    </item>
     
   </channel>
 </rss>

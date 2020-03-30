@@ -6,9 +6,28 @@
     <description>Recent content in Skills on Miss Amandy&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2020 17:28:02 -0700</lastBuildDate>
     
 	<atom:link href="http://example.org/skills/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hand-eye coordination</title>
+      <link>http://example.org/skills/hand-eye-coordination/</link>
+      <pubDate>Sun, 29 Mar 2020 17:28:02 -0700</pubDate>
+      
+      <guid>http://example.org/skills/hand-eye-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>making Stevo happy</title>
+      <link>http://example.org/skills/making-stevo-happy/</link>
+      <pubDate>Sun, 29 Mar 2020 17:28:02 -0700</pubDate>
+      
+      <guid>http://example.org/skills/making-stevo-happy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
