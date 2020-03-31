@@ -74,8 +74,6 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 ## Points of Interest:
 
-
-
 The color of the cubes, the size of the smallest cube, using different finger/hand grasps, repetition and movement, the finished tower, and muscular and visual impressions of the size of the cubes.
 
 ## Control of Error:

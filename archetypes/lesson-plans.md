@@ -8,10 +8,6 @@ skills:
 # - "hand-eye coordination"
 ---
 
-## Required skills
-
-## Aims
-
 ## Materials
 
 ## Presentation
