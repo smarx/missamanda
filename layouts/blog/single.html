@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+
+{{ partial "breadcrumb" . }}
+
+<h1>{{ .Title }}</h1>
+
+{{ partial "post/information" . }}
+
+{{- if or .Params.ages .Params.skills }}
+<div class="tags">
+Tags:
+{{ range $key, $tag := .Params.ages }}
+{{- if ne $key 0 -}}, {{ end -}} <a href="{{ ($.Site.GetPage "ages" (urlize $tag)).Permalink }}">age {{ $tag }}</a>
+{{- end -}}
+
+{{- if .Params.ages -}}, {{ end -}}
+{{ range $key, $tag := .Params.skills }}
+{{- if ne $key 0 -}}, {{ end -}} <a href="{{ ($.Site.GetPage "skills" (urlize $tag)).Permalink }}">{{ $tag | lower }}</a>
+{{- end -}}
+</div>
+{{- end -}}
+
+{{ .Content }}
+
+{{ partial "footer" . }}

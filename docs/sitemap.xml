@@ -3,132 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ages/2/</loc>
+    <loc>http://missamanda.blog/ages/2/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/ages/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/blog/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/blog/hello/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/skills/order/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/skills/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/ages/3/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/ages/3/</loc>
+    <loc>http://missamanda.blog/skills/awareness-of-exactitude/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/ages/</loc>
+    <loc>http://missamanda.blog/skills/body-balance/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/awareness-of-exactitude/</loc>
+    <loc>http://missamanda.blog/skills/concentration/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/body-balance/</loc>
+    <loc>http://missamanda.blog/skills/coordination/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/concentration/</loc>
+    <loc>http://missamanda.blog/skills/development-of-visual-and-muscular-discrimination/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/coordination/</loc>
+    <loc>http://missamanda.blog/skills/fine-motor-control/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/curriculum/</loc>
+    <loc>http://missamanda.blog/skills/gradation/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/development-of-visual-and-muscular-discrimination/</loc>
+    <loc>http://missamanda.blog/skills/gross-motor-control/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/fine-motor-control/</loc>
+    <loc>http://missamanda.blog/skills/independence/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/gradation/</loc>
+    <loc>http://missamanda.blog/lesson-plans/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/gross-motor-control/</loc>
+    <loc>http://missamanda.blog/skills/preparation-for-math-base-ten/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://missamanda.blog/lesson-plans/sensorial/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/independence/</loc>
+    <loc>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/lesson-plan/</loc>
+    <loc>http://missamanda.blog/lesson-plans/sensorial/visual/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/skills/order/</loc>
-    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/skills/preparation-for-math-base-ten/</loc>
-    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/curriculum/sensorial/</loc>
-    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/skills/</loc>
-    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/lesson-plan/tower-of-cubes/</loc>
-    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/skills/hand-eye-coordination/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/lesson-plan/making-a-turkey/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/skills/making-stevo-happy/</loc>
-    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/hello-world/</loc>
-    <lastmod>2020-03-29T17:20:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2020-03-29T17:20:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://missamanda.blog/about/</loc>
   </url>
   
 </urlset>

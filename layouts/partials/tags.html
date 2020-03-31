@@ -1,0 +1,13 @@
+{{- if .Params.ages -}}
+<p>For ages: 
+{{ range $key, $tag := .Params.ages }}
+{{- if ne $key 0 -}}, {{ end -}} <a href="{{ ($.Site.GetPage "ages" (urlize $tag)).Permalink }}">{{ $tag }}</a>
+{{- end -}}</p>
+{{- end -}}
+
+{{- if .Params.skills -}}
+<p>Skills:
+{{ range $key, $tag := .Params.skills }}
+{{- if ne $key 0 -}}, {{ end -}} <a href="{{ ($.Site.GetPage "skills" (urlize $tag)).Permalink }}">{{ $tag }}</a>
+{{- end -}}</p>
+{{- end -}}

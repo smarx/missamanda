@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concentration on Miss Amandy&#39;s Website</title>
-    <link>http://example.org/skills/concentration/</link>
-    <description>Recent content in Concentration on Miss Amandy&#39;s Website</description>
+    <title>concentration on Miss Amanda</title>
+    <link>http://missamanda.blog/skills/concentration/</link>
+    <description>Recent content in concentration on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 18:32:05 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/skills/concentration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://missamanda.blog/skills/concentration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tower of Cubes</title>
-      <link>http://example.org/lesson-plan/tower-of-cubes/</link>
+      <link>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</link>
       <pubDate>Sun, 29 Mar 2020 18:32:05 -0700</pubDate>
       
-      <guid>http://example.org/lesson-plan/tower-of-cubes/</guid>
-      <description>Materials: Ten solid wooden cubes the largest of which is 10 cm3the smallest of which is 1 cm3. Each cube decreases in size by 1 cm3.
-Presentation: Invite the child to work with the tower of cubes.
-Obtain and unroll a rug in the accepted manner.
-Walk to the area of the room containing the tower of cubes.
-Bend down to eye level to admire the tower.
-Using a three-finger grasp of your dominant hand slide the smallest cube toward you while supporting the base of the cube with your subdominant hand.</description>
+      <guid>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</guid>
+      <description>Tower of Cubes
+  Materials: Ten solid wooden cubes the largest of which is 10 cm3 the smallest of which is 1 cm3. Each cube decreases in size by 1 cm3.
+Presentation:   Invite the child to work with the tower of cubes.
+  Obtain and unroll a rug in the accepted manner.
+  Walk to the area of the room containing the tower of cubes.</description>
     </item>
     
   </channel>
