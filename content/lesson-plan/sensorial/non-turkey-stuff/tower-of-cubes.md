@@ -44,15 +44,15 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 8. On or about the fourth cube, switch to a four-finger grasp, and continue to slide each cube onto your subdominant hand. Then place the cube randomly on the rug.
 
-9. {{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="right border" >}} On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
+9. On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
 
 10. For the ninth and tenth cubes use a sandwich grasp (hands and fingers flattened) to secure and carry the cubes to the work rug.  
 
-11. When all cubes have been placed on the rug, sit down and scan the random grouping of cubes.
+11. {{< figure src="/Sensorial/Tower of Cubes - randomized.jpg" caption="random grouping of cubes" width="250px" class="right " >}}When all cubes have been placed on the rug, sit down and scan the random grouping of cubes.
 
 12. Locate the largest cube, grasp it in the accepted manner, and place it at the front center of the work space.
 
-13. Scan the cubes and isolate the extremes by picking up the smallest cube in the accepted manner and placing it on top of the largest cube.
+13. {{< figure src="/Sensorial/Tower of Cubes - extremes.jpg" width="150px" class="right" >}}Scan the cubes and isolate the extremes by picking up the smallest cube in the accepted manner and placing it on top of the largest cube.
 
 14. Carefully examine the two extremes.
 
@@ -76,7 +76,7 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 ## Points of Interest:
 
-{{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="left border" >}}
+
 
 The color of the cubes, the size of the smallest cube, using different finger/hand grasps, repetition and movement, the finished tower, and muscular and visual impressions of the size of the cubes.
 
