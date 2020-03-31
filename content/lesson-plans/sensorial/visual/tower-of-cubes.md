@@ -1,23 +1,21 @@
 ---
 title: "Tower of Cubes"
 date: 2020-03-29T18:32:05-07:00
-curriculum:
-- sensorial
 ages:
 - 2
 - 3
 skills:
-- "Order"
-- "Concentration"
-- "Coordination"
-- "Independence"
-- "Body Balance"
-- "Development of visual and muscular discrimination"
-- "Gradation"
-- "Preparation for math (base ten)"
-- "Awareness of exactitude"
-- "Gross motor control"
-- "Fine motor control"
+- "order"
+- "concentration"
+- "coordination"
+- "independence"
+- "body balance"
+- "development of visual and muscular discrimination"
+- "gradation"
+- "preparation for math (base ten)"
+- "awareness of exactitude"
+- "gross motor control"
+- "fine motor control"
 ---
 
 {{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="border" >}}

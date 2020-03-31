@@ -39,13 +39,18 @@ html { background-color: transparent; }
   }
 }
 
-.lesson-plan h2 {
+h2 {
   font-size: 24px;
   clear: both;
 }
 
 ul {
   margin-top: 0 !important;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 figure img {
@@ -72,4 +77,24 @@ figure.right {
 figure.left {
   float: left;
   margin-right: 48px;
+}
+
+span.count {
+  border-radius: 500px;
+  background-color: #a7a7a7;
+  padding: 0 6px;
+  font-size: 75%;
+  color: white;
+  margin-left: 8px;
+}
+
+span.meta {
+  margin-left: 8px;
+  color: #888;
+}
+
+div.tags {
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }

@@ -3,6 +3,9 @@
 {{ partial "breadcrumb" . }}
 
 <h1>{{ .Title | markdownify }}</h1>
+
+{{ partial "tags" . }}
+
 {{ .Content }}
 
 {{ partial "footer" .}}

@@ -1,0 +1,17 @@
+{{ partial "header" .}}
+
+{{ partial "breadcrumb" . }}
+
+<h1 id="title">Age {{ .Title }}</h1>
+<p>{{ .Content }}</p>
+
+{{ range .Data.Pages.GroupBy "Section" }}
+<h2>{{ ($.Site.GetPage .Key).Title }}</h2>
+<ul>
+{{ range .Pages }}
+{{ .Render "li" }}
+{{ end }}
+</ul>
+{{ end }}
+
+{{ partial "footer" .}}
