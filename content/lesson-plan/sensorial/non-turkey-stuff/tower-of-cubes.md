@@ -20,6 +20,8 @@ skills:
 - "Fine motor control"
 ---
 
+{{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="border" >}}
+
 ## Materials:
 
 Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of which is 1 cm<sup>3</sup>. Each cube decreases in size by 1 cm<sup>3</sup>.
@@ -42,7 +44,7 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 8. On or about the fourth cube, switch to a four-finger grasp, and continue to slide each cube onto your subdominant hand. Then place the cube randomly on the rug.
 
-9. On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
+9. {{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="right border" >}} On or about the seventh cube, switch to a five-finger grasp and continue to move cubes as described in #8.
 
 10. For the ninth and tenth cubes use a sandwich grasp (hands and fingers flattened) to secure and carry the cubes to the work rug.  
 
@@ -62,7 +64,7 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 
 18. Scan the random grouping and locate the next largest cube, pick it up in the accepted manner, and slide it front to back onto the center of the previously placed cube. Pause to take a moment to admire your work.
 
-19. Repeat #18 until all cubes have been arranged in decending order and the tower has been assembled.  
+19. Repeat #18 until all cubes have been arranged in descending order and the tower has been assembled.  
 
 20. Pause to admire the completed tower.  Appear pleased and proud.
 
@@ -73,6 +75,8 @@ Ten solid wooden cubes the largest of which is 10 cm<sup>3</sup> the smallest of
 23. Re-roll the rug and return it to its proper place.
 
 ## Points of Interest:
+
+{{< figure src="/Sensorial/Tower of Cubes - Complete.jpg" caption="Tower of Cubes" width="250px" class="left border" >}}
 
 The color of the cubes, the size of the smallest cube, using different finger/hand grasps, repetition and movement, the finished tower, and muscular and visual impressions of the size of the cubes.
 
@@ -99,9 +103,3 @@ Variations include building the tower horizontally, using cards with a 2-D image
 Extensions include combining the tower of cubes with the board stair to create new towers and buildings, tracing the cubes onto paper and cutting and glueing the paper to create a 2-D tower of cubes, using the cubes with pattern cards, using the cubes as a unit of measurement, using a blindfold to build the tower, and playing a distance game by putting a rug with the randomized cubes on one side of the room and assembling the tower on the other side of the room.
 
 ## Comments:
-
-
-
-
-
-

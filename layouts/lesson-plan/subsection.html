@@ -1,0 +1,13 @@
+<a href="{{ .Permalink }}">{{ .Title }}</a>
+
+<ul style="margin-top: 0">
+
+{{ range .Sections }}
+<li>{{ .Render "subsection" }}</li>
+{{ else }}
+{{ range .Pages }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+{{ end }}
+
+</ul>

@@ -1,0 +1,20 @@
+{{ partial "header" .}}
+
+{{ partial "breadcrumb" . }}
+
+<h1 id="title"> {{ .Title }}</h1>
+<p>{{ .Content }}</p>
+
+<ul style="margin-top: 0">
+
+{{ range .Sections }}
+<li>{{ .Render "subsection" }}</li>
+{{ else }}
+{{ range .Pages }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+{{ end }}
+
+</ul>
+
+{{ partial "footer" .}}

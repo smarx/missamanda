@@ -1,1 +1,75 @@
 html { background-color: transparent; }
+
+@media (max-width: 767px) {
+  header img.rounded-logo {
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 24px;
+  }
+
+  header .logo-container a:link {
+    border-bottom: none;
+  }
+
+  header .logo-container {
+    display: inline-block;
+  }
+
+  header h2 {
+    font-size: 18px;
+    display: inline-block;
+  }
+
+  header h3 {
+    display: none;
+  }
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+  }
+  .menu p {
+    display: inline-block;
+  }
+
+  .socials {
+    display: none;
+  }
+}
+
+.lesson-plan h2 {
+  font-size: 24px;
+  clear: both;
+}
+
+ul {
+  margin-top: 0 !important;
+}
+
+figure img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  color: #777;
+  text-align: center;
+  font-size: .875rem;
+}
+
+figure.border img {
+  border: 1px solid #777;
+}
+
+figure.right {
+  float: right;
+  margin-left: 48px;
+}
+
+figure.left {
+  float: left;
+  margin-right: 48px;
+}

@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Miss Amandy's Website"
+title = "Miss Amanda"
 theme = "personal-web"
 publishDir = "docs"
 
@@ -9,7 +9,7 @@ publishDir = "docs"
   backgroundImage = "toddler.jpg"
 
 [params.intro]
-  main = "Hi, I'm Miss Amandy :wave:"
+  main = "Hi, I'm Miss Amanda :wave:"
   sub = "I'm a Montessori teacher"
 
 [params.assets]
@@ -19,3 +19,29 @@ publishDir = "docs"
   age = "ages"
   skill = "skills"
   curriculum = "curriculum"
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "lesson-plans"
+  name = "Lesson Plans"
+  title = "Lesson Plans"
+  url = "/lesson-plan/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog"
+  url = "/post/"
+  weight = -100
+
+[markup.goldmark.renderer]
+  unsafe = true
