@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miss Amanda&#39;s Blog on Miss Amanda</title>
-    <link>http://example.org/post/</link>
+    <link>http://missamanda.blog/post/</link>
     <description>Recent content in Miss Amanda&#39;s Blog on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 17:20:54 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://missamanda.blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/post/hello-world/</link>
+      <link>http://missamanda.blog/post/hello-world/</link>
       <pubDate>Sun, 29 Mar 2020 17:20:54 -0700</pubDate>
       
-      <guid>http://example.org/post/hello-world/</guid>
+      <guid>http://missamanda.blog/post/hello-world/</guid>
       <description>This is my blog post.
 Section 1 Stuff.
 Section 2 Fancy stuff!
