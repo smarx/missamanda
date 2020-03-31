@@ -78,12 +78,22 @@
   </url>
   
   <url>
+    <loc>http://example.org/lesson-plan/sensorial/non-turkey-stuff/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/skills/order/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/skills/preparation-for-math-base-ten/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lesson-plan/sensorial/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
@@ -98,7 +108,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/lesson-plan/tower-of-cubes/</loc>
+    <loc>http://example.org/lesson-plan/sensorial/non-turkey-stuff/tower-of-cubes/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
   
@@ -108,12 +118,17 @@
   </url>
   
   <url>
-    <loc>http://example.org/lesson-plan/making-a-turkey/</loc>
+    <loc>http://example.org/lesson-plan/sensorial/turkey-stuff/making-a-turkey/</loc>
     <lastmod>2020-03-29T17:28:02-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/skills/making-stevo-happy/</loc>
+    <lastmod>2020-03-29T17:28:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/lesson-plan/sensorial/turkey-stuff/</loc>
     <lastmod>2020-03-29T17:28:02-07:00</lastmod>
   </url>
   
