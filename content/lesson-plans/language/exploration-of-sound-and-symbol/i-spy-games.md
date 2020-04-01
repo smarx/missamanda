@@ -107,5 +107,3 @@ Use more than 3 sounds in a word, ask the child to pick any word and break it do
 - Remember that this activity doesn't TEACH the sounds.  If they child can speak, they know the sounds.  With this game we are developing the AWARENESS OF SOUNDS in language.
 
 - This work is done in parallel to vocabulary development activities.
-
-

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Posts on Miss Amanda</title>
-    <link>http://missamanda.blog/blog/</link>
-    <description>Recent content in Blog Posts on Miss Amanda</description>
+    <title>vocabulary on Miss Amanda</title>
+    <link>http://missamanda.blog/skills/vocabulary/</link>
+    <description>Recent content in vocabulary on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2020 19:02:40 -0700</lastBuildDate>
     
-	<atom:link href="http://missamanda.blog/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://missamanda.blog/skills/vocabulary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>The three period lesson is an integral part of the Montessori curriculum. This lesson was originated by Edouard Seguin during the mid-19th century in France. The three period lesson is used in the 3-6 classroom to help children learn a variety of vocabulary including color names, numeral names, sandpaper letter sounds, and sight words.
 In simple terms, the three steps, or periods, are
   Name (Introduce) &amp;ldquo;This is red.&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://missamanda.blog/blog/hello/</link>
-      <pubDate>Tue, 31 Mar 2020 12:01:58 -0700</pubDate>
-      
-      <guid>http://missamanda.blog/blog/hello/</guid>
-      <description>This is just a test. More to come. :-)</description>
     </item>
     
   </channel>
