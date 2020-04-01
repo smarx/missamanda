@@ -2,7 +2,7 @@
 
 {{ partial "breadcrumb" . }}
 
-<h1 id="title">{{ .Title }}</h1>
+<h1 id="title">{{ .Title | title }}</h1>
 <p>{{ .Content }}</p>
 
 {{ range .Data.Pages.GroupBy "Section" }}
