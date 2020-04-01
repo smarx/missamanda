@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://missamanda.blog/blog/</loc>
+    <loc>http://missamanda.blog/articles/</loc>
     <lastmod>2020-03-31T19:02:40-07:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>http://missamanda.blog/blog/three-period-lesson/</loc>
+    <loc>http://missamanda.blog/articles/three-period-lesson/</loc>
     <lastmod>2020-03-31T19:02:40-07:00</lastmod>
   </url>
   
@@ -103,6 +103,11 @@
   </url>
   
   <url>
+    <loc>http://missamanda.blog/blog/</loc>
+    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://missamanda.blog/blog/hello/</loc>
     <lastmod>2020-03-31T12:01:58-07:00</lastmod>
   </url>
@@ -183,10 +188,6 @@
   
   <url>
     <loc>http://missamanda.blog/articles/alphabet/</loc>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/articles/</loc>
   </url>
   
 </urlset>
