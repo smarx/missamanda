@@ -6,18 +6,23 @@
     <description>Recent content in Blog Posts on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 12:01:58 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 12:01:58 -0700</lastBuildDate>
     
 	<atom:link href="http://missamanda.blog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>http://missamanda.blog/blog/hello/</link>
-      <pubDate>Tue, 31 Mar 2020 12:01:58 -0700</pubDate>
+      <title>Role of the Teacher</title>
+      <link>http://missamanda.blog/blog/role-of-the-teacher/</link>
+      <pubDate>Wed, 01 Apr 2020 12:01:58 -0700</pubDate>
       
-      <guid>http://missamanda.blog/blog/hello/</guid>
-      <description>This is just a test. More to come. :-)</description>
+      <guid>http://missamanda.blog/blog/role-of-the-teacher/</guid>
+      <description>&lt;figure class=&#34;right&#34;&gt;
+    &lt;img src=&#34;http://missamanda.blog/Montessori.png&#34; width=&#34;150px&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Maria Montessori wrote that, “In brief, the teacher’s principle duty in the school may be described as follows: She should explain the use of the material. She is the main
+connecting link between the material, that is, the objects, and the child. This is a simple, modest duty&amp;hellip;”&lt;/p&gt;</description>
     </item>
     
   </channel>
