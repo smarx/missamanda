@@ -1,11 +1,13 @@
 ---
 title: "The Three Period Lesson"
-date: 2020-03-31T19:02:40-07:00
+
 skills:
 - "vocabulary"
 ---
 
 The three period lesson is an integral part of the Montessori curriculum.  This lesson was originated by Edouard Seguin during the mid-19th century in France.   The three  period lesson is used in the 3-6 classroom to help children learn a variety of vocabulary including color names, numeral names, sandpaper letter sounds, and sight words.
+
+<!--more-->
 
 In simple terms, the three steps, or periods, are
 
@@ -44,11 +46,3 @@ Children can retain information for a short period of time, but this isn't inter
 Instead of "What is this?" say, "This is ____." Wait. If the child is unable to remember the term provide it for them.  Move back to the first period. 
 
 When the child has mastered the terms, introduce new vocabulary. Continue to review these mastered words and concepts occasionally.  We will discuss this topic more in a future blog post about spaced repetition.
-
-
-
-
-
-
-
-
