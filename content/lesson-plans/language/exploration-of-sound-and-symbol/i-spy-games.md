@@ -7,7 +7,7 @@ ages:
 - 4
 - 5
 skills:
-- "auditory preception"
+- "auditory perception"
 - "concept of a word"
 - "sounds have an order in words"
 - "phonemic awareness"
