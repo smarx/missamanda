@@ -3,31 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://missamanda.blog/articles/</loc>
-    <lastmod>2020-03-31T19:02:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/</loc>
-    <lastmod>2020-03-31T19:02:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/skills/</loc>
-    <lastmod>2020-03-31T19:02:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/articles/three-period-lesson/</loc>
-    <lastmod>2020-03-31T19:02:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/skills/vocabulary/</loc>
-    <lastmod>2020-03-31T19:02:40-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://missamanda.blog/ages/2/</loc>
     <lastmod>2020-03-31T14:38:39-07:00</lastmod>
   </url>
@@ -68,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://missamanda.blog/</loc>
+    <lastmod>2020-03-31T14:38:39-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://missamanda.blog/lesson-plans/language/exploration-of-sound-and-symbol/i-spy-games/</loc>
     <lastmod>2020-03-31T14:38:39-07:00</lastmod>
   </url>
@@ -98,6 +78,11 @@
   </url>
   
   <url>
+    <loc>http://missamanda.blog/skills/</loc>
+    <lastmod>2020-03-31T14:38:39-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://missamanda.blog/skills/sounds-have-an-order-in-words/</loc>
     <lastmod>2020-03-31T14:38:39-07:00</lastmod>
   </url>
@@ -109,11 +94,6 @@
   
   <url>
     <loc>http://missamanda.blog/blog/hello/</loc>
-    <lastmod>2020-03-31T12:01:58-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://missamanda.blog/skills/order/</loc>
     <lastmod>2020-03-31T12:01:58-07:00</lastmod>
   </url>
   
@@ -163,6 +143,11 @@
   </url>
   
   <url>
+    <loc>http://missamanda.blog/skills/order/</loc>
+    <lastmod>2020-03-29T18:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://missamanda.blog/skills/preparation-for-math-base-ten/</loc>
     <lastmod>2020-03-29T18:32:05-07:00</lastmod>
   </url>
@@ -187,11 +172,23 @@
   </url>
   
   <url>
+    <loc>http://missamanda.blog/articles/</loc>
+  </url>
+  
+  <url>
     <loc>http://missamanda.blog/skills/auditory-perception/</loc>
   </url>
   
   <url>
     <loc>http://missamanda.blog/articles/key-sounds/</loc>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/articles/three-period-lesson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://missamanda.blog/skills/vocabulary/</loc>
   </url>
   
 </urlset>
