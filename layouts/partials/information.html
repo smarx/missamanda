@@ -1,3 +1,4 @@
+<div class="info">
 <div class="reading-time">
     {{ partial "svg" (dict "iconName" "clock" "size" "18px")}}
     <span>{{ .ReadingTime }} {{ "minute" | pluralize }}</span>
@@ -9,3 +10,4 @@
     <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
 </div>
 {{ end }}
+</div>

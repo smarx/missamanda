@@ -4,12 +4,20 @@ header .intro h2 {
   font-size: 24px;
 }
 
+header .intro {
+  bottom: 24px;
+}
+
 header .intro h3 {
   margin-top: 0;
   margin-bottom: 24px;
 }
 
 @media (max-width: 767px) {
+  header .intro {
+    bottom: inherit;
+  }
+
   header img.rounded-logo {
     width: 64px;
     height: 64px;
@@ -29,6 +37,7 @@ header .intro h3 {
   header .intro h2 {
     font-size: 18px;
     display: inline-block;
+    margin-top: 0;
   }
 
   header .intro h3 {
@@ -108,10 +117,6 @@ div.tags {
   margin-bottom: 20px;
 }
 
-header .intro {
-    bottom: 24px;
-}
-
 header .rounded-logo {
     width: 112px;
     height: 112px;
@@ -141,4 +146,8 @@ header .rounded-logo {
 
 #content table tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
+}
+
+p {
+  text-align: inherit;
 }
