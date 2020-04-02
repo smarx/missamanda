@@ -4,12 +4,14 @@ skills:
 - "phonemic awareness"
 - "phoneme isolation"
 - "preparation for reading and writing"
-- "auditory preception"
+- "auditory perception"
 ---
 
 There are 40 key sounds, or phonemes, taught in the Montessori early childhood classroom.  24 are represented by one symbol and 16 by a double symbol.
 
 The three period lesson is used to introduce and practice these sounds with the sandpaper letters.  
+
+<!--more-->
 
 | Graphic Symbol: | Sound: |
 |:---------------:|:------:|
