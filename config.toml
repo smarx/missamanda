@@ -10,8 +10,8 @@ cleanDestinationDir = true
   backgroundImage = "toddler.jpg"
 
 [params.intro]
-  main = "Hi, I'm Miss Amanda :wave:"
-  sub = "I'm a Montessori teacher"
+  main = " "
+  sub = "Hi, I'm Miss Amanda.<br>I'm a Montessori teacher."
 
 [params.assets]
   customCSS = "/style.css"
