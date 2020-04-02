@@ -13,8 +13,8 @@ The three period lesson is used to introduce and practice these sounds with the 
 
 <!--more-->
 
-| Graphic Symbol: | Sound: |
-|:---------------:|:------:|
+| Graphic Symbol  | Sound  |
+|:----------------|:-------|
 | a               | apple  |
 | b               | bear   |
 | c               | cookie |
@@ -56,5 +56,3 @@ The three period lesson is used to introduce and practice these sounds with the 
 | ou              | out    |
 | oo              | book   |
 | au              | August |
-
-
