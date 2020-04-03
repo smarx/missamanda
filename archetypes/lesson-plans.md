@@ -12,15 +12,11 @@ skills:
 
 ## Presentation:
 
-
-
 ## Points of Interest:
 
 ## Control of Error:
 
 ## Language:
-
-- 
 
 ## Variations:
 
