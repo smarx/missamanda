@@ -2,50 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Miss Amanda</title>
-    <link>http://missamanda.blog/</link>
+    <link>https://missamanda.blog/</link>
     <description>Recent content in HOME on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 12:56:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 12:01:58 -0700</lastBuildDate>
     
-	<atom:link href="http://missamanda.blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://missamanda.blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dusting</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</link>
-      <pubDate>Wed, 01 Apr 2020 12:56:46 -0700</pubDate>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</guid>
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</guid>
       <description>Materials: One basket with appropriate dust cloths and an area to dust.
 Presentation:  Invite the child to dust. Carry basket of dust cloths to an area in need of dusting. With dominant hand, grasp dust cloth. Start at the top left corner. Wipe toward top right. Move down and again repeat left to right wiping motion. Continue in this manner until area has been properly and evenly dusted. Look at dust cloth.</description>
     </item>
     
     <item>
-      <title>Role of the Teacher</title>
-      <link>http://missamanda.blog/blog/role-of-the-teacher/</link>
-      <pubDate>Wed, 01 Apr 2020 12:01:58 -0700</pubDate>
-      
-      <guid>http://missamanda.blog/blog/role-of-the-teacher/</guid>
-      <description>Maria Montessori wrote that, “In brief, the teacher’s principle duty in the school may be described as follows: She should explain the use of the material. She is the main connecting link between the material, that is, the objects, and the child. This is a simple, modest duty&amp;hellip;”</description>
-    </item>
-    
-    <item>
-      <title>I Spy Games</title>
-      <link>http://missamanda.blog/lesson-plans/language/exploration-of-sound-and-symbol/i-spy-games/</link>
-      <pubDate>Tue, 31 Mar 2020 14:38:39 -0700</pubDate>
-      
-      <guid>http://missamanda.blog/lesson-plans/language/exploration-of-sound-and-symbol/i-spy-games/</guid>
-      <description>Materials: Objects that use the 40 key sounds / phonemes (see Key Sounds) and contains only 3 of these sounds per object/word.
-Presentation I Beginning Sounds  Invite a small group of children to join you. Bring the basket of objects from the shelf to a work rug. Sit in a small group. Ask each child to choose one object from the basket and hold it in their hand. Name the selected objects with the children.</description>
-    </item>
-    
-    <item>
       <title>Folding</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</link>
-      <pubDate>Mon, 30 Mar 2020 21:20:04 -0700</pubDate>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</guid>
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</guid>
       <description>Materials: One basket containing five square pieces of cloth, each about 5 or 6 inches.
 Each cloth has the following stitching:
   One line down the middle
@@ -58,11 +39,42 @@ Each cloth has the following stitching:
     </item>
     
     <item>
+      <title>Floor Sweeping</title>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</guid>
+      <description>Materials: Child-sized broom, hand broom, short handled dustpan, an area of floor marked off for sweeping, material to be swept (paper shavings, elbow macaroni, beans, etc.), and a garbage can.
+Presentation:   Invite the child to sweep.
+  Carry a basket filled with the materials to be swept (macaroni) to an area of the floor marked off for sweeping.
+  Grasp one handful of elbow macaroni. Slowly and gracefully sprinkle them on the floor.</description>
+    </item>
+    
+    <item>
+      <title>Role of the Teacher</title>
+      <link>https://missamanda.blog/blog/role-of-the-teacher/</link>
+      <pubDate>Wed, 01 Apr 2020 12:01:58 -0700</pubDate>
+      
+      <guid>https://missamanda.blog/blog/role-of-the-teacher/</guid>
+      <description>Maria Montessori wrote that, “In brief, the teacher’s principle duty in the school may be described as follows: She should explain the use of the material. She is the main connecting link between the material, that is, the objects, and the child. This is a simple, modest duty&amp;hellip;”</description>
+    </item>
+    
+    <item>
+      <title>I Spy Games</title>
+      <link>https://missamanda.blog/lesson-plans/language/exploration-of-sound-and-symbol/i-spy-games/</link>
+      <pubDate>Tue, 31 Mar 2020 14:38:39 -0700</pubDate>
+      
+      <guid>https://missamanda.blog/lesson-plans/language/exploration-of-sound-and-symbol/i-spy-games/</guid>
+      <description>Materials: Objects that use the 40 key sounds / phonemes (see Key Sounds) and contains only 3 of these sounds per object/word.
+Presentation I Beginning Sounds  Invite a small group of children to join you. Bring the basket of objects from the shelf to a work rug. Sit in a small group. Ask each child to choose one object from the basket and hold it in their hand. Name the selected objects with the children.</description>
+    </item>
+    
+    <item>
       <title>Tower of Cubes</title>
-      <link>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</link>
+      <link>https://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</link>
       <pubDate>Sun, 29 Mar 2020 18:32:05 -0700</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</guid>
+      <guid>https://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</guid>
       <description>Tower of Cubes
   Materials: Ten solid wooden cubes the largest of which is 10 cm3 the smallest of which is 1 cm3. Each cube decreases in size by 1 cm3.
 Presentation:   Invite the child to work with the tower of cubes.
@@ -71,33 +83,21 @@ Presentation:   Invite the child to work with the tower of cubes.
     </item>
     
     <item>
-      <title>Floor Sweeping</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</link>
-      <pubDate>Sun, 29 Mar 2020 12:57:46 -0700</pubDate>
-      
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</guid>
-      <description>Materials: Child-sized broom, hand broom, short handled dustpan, an area of floor marked off for sweeping, material to be swept (paper shavings, elbow macaroni, beans, etc.), and a garbage can.
-Presentation:   Invite the child to sweep.
-  Carry a basket filled with the materials to be swept (macaroni) to an area of the floor marked off for sweeping.
-  Grasp one handful of elbow macaroni. Slowly and gracefully sprinkle them on the floor.</description>
-    </item>
-    
-    <item>
       <title>Key Sounds</title>
-      <link>http://missamanda.blog/articles/key-sounds/</link>
+      <link>https://missamanda.blog/articles/key-sounds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/articles/key-sounds/</guid>
+      <guid>https://missamanda.blog/articles/key-sounds/</guid>
       <description>&lt;p&gt;There are 40 key sounds, or phonemes, taught in the Montessori early childhood classroom.  24 are represented by one symbol and 16 by a double symbol.&lt;/p&gt;
 &lt;p&gt;The three period lesson is used to introduce and practice these sounds with the sandpaper letters.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Three Period Lesson</title>
-      <link>http://missamanda.blog/articles/three-period-lesson/</link>
+      <link>https://missamanda.blog/articles/three-period-lesson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/articles/three-period-lesson/</guid>
+      <guid>https://missamanda.blog/articles/three-period-lesson/</guid>
       <description>&lt;p&gt;The three period lesson is an integral part of the Montessori curriculum.  This lesson was originated by Edouard Seguin during the mid-19th century in France.   The three  period lesson is used in the 3-6 classroom to help children learn a variety of vocabulary including color names, numeral names, sandpaper letter sounds, and sight words.&lt;/p&gt;</description>
     </item>
     

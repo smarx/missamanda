@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language on Miss Amanda</title>
-    <link>http://missamanda.blog/lesson-plans/language/</link>
+    <link>https://missamanda.blog/lesson-plans/language/</link>
     <description>Recent content in Language on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Mar 2020 14:38:39 -0700</lastBuildDate>
     
-	<atom:link href="http://missamanda.blog/lesson-plans/language/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://missamanda.blog/lesson-plans/language/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

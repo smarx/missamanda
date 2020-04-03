@@ -1,7 +1,6 @@
 ---
 title: HOME
-description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+description: Hi! I'm Miss Amanda, a Montessori teacher.
 ---
 
 Hi! I'm Miss Amanda, a Montessori teacher.
