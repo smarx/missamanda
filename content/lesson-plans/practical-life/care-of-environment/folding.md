@@ -1,6 +1,6 @@
 ---
 title: "Folding"
-date: 2020-03-20T21:20:04-07:00
+date: 2020-03-30T21:20:04-07:00
 ages:
 
 - 2
@@ -100,5 +100,3 @@ Different colored cloths, different folding lines on cloths, cloths in different
 Fold towels, napkins, mats, blankets, and other rectangular or square articles, fold an apron, fold articles of clothing in different shapes, fold clothes and pack a suitcase, fold napkins in interesting shapes (flower, fish, star, turkey, Christmas tree, etc.), and Origami.
 
 ## Comments:
-
-

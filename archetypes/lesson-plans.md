@@ -10,19 +10,13 @@ skills:
 
 ## Materials:
 
-
-
 ## Presentation:
 
-1. 
+
 
 ## Points of Interest:
 
-
-
 ## Control of Error:
-
-- 
 
 ## Language:
 
@@ -30,10 +24,6 @@ skills:
 
 ## Variations:
 
-
-
 ## Extensions:
-
-
 
 ## Comments:
