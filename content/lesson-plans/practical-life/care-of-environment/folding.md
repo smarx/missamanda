@@ -40,6 +40,12 @@ Each cloth has the following stitching:
 3. Place the basket in the upper left corner of the table.
 
 4. Gently grasp the top cloth (cloth 1 listed above) and place in the middle of the table.  Smooth material.
+   
+   
+   
+   {{< figure src="/Practical Life/folding 1.jpg" width="250px" >}}
+   
+   
 
 5. Trace the fold line by running index and middle finger of dominant hand from left to right along the stitch.
 
@@ -71,7 +77,13 @@ Each cloth has the following stitching:
 
 19. Place folded cloth on top of the other folded cloths.
 
-20. Obtain next piece of fabric (with 1 diagonal line) and place it in front of you. Smooth fabric.
+20. Obtain next piece of fabric (with 2 diagonal lines) and place it in front of you. Smooth fabric.
+    
+    
+    
+    {{< figure src="/Practical Life/folding 2.jpg" width="250px" >}}
+    
+    
 
 21. Trace the fold line by running index and middle finger of dominant hand beginning at top left corner and ending at bottom right corner.
 

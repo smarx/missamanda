@@ -14,6 +14,8 @@ skills:
 - "independence"
 ---
 
+{{< figure src="/Practical Life/dusting 1.jpg" caption= "Dusting" width="400px" >}}
+
 ## Materials:
 
 One basket with appropriate dust cloths and an area to dust.
@@ -42,6 +44,8 @@ Feel of the cloth, seeing the area which is being dusted become clean, feeling t
 - dust, cloth, table (or name of area being dusted), clean, wipe
 
 ## Variations:
+
+{{< figure src="/Practical Life/dusting 2.jpg" caption= "feather duster" width="150px" class="right" >}}
 
 Use a feather duster.  Show the child how to carry the feather duster. Grasp lightly, use a sweeping motion to dust the designated area. 
 
