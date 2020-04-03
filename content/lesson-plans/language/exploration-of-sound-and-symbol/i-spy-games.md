@@ -17,7 +17,7 @@ skills:
 
 ## Materials:
 
-Objects that use the 40 key sounds / phonemes (see Key Sounds) and contains only 3 of these sounds per object/word.
+Objects that use the 40 key sounds / phonemes (see [Key Sounds]({{< ref "articles/key-sounds.md" >}})) and contains only 3 of these sounds per object/word.
 
 ## Presentation I
 
