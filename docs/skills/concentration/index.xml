@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>concentration on Miss Amanda</title>
-    <link>http://missamanda.blog/skills/concentration/</link>
+    <link>https://missamanda.blog/skills/concentration/</link>
     <description>Recent content in concentration on Miss Amanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 12:56:46 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 18:32:05 -0700</lastBuildDate>
     
-	<atom:link href="http://missamanda.blog/skills/concentration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://missamanda.blog/skills/concentration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dusting</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</link>
-      <pubDate>Wed, 01 Apr 2020 12:56:46 -0700</pubDate>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</guid>
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dusting/</guid>
       <description>Dusting
   Materials: One basket with appropriate dust cloths and an area to dust.
 Presentation:  Invite the child to dust. Carry basket of dust cloths to an area in need of dusting. With dominant hand, grasp dust cloth. Start at the top left corner. Wipe toward top right. Move down and again repeat left to right wiping motion. Continue in this manner until area has been properly and evenly dusted.</description>
@@ -24,10 +24,10 @@ Presentation:  Invite the child to dust. Carry basket of dust cloths to an area 
     
     <item>
       <title>Folding</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</link>
-      <pubDate>Mon, 30 Mar 2020 21:20:04 -0700</pubDate>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</guid>
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/folding/</guid>
       <description>Materials: One basket containing five square pieces of cloth, each about 5 or 6 inches.
 Each cloth has the following stitching:
   One line down the middle
@@ -40,11 +40,23 @@ Each cloth has the following stitching:
     </item>
     
     <item>
+      <title>Floor Sweeping</title>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</guid>
+      <description>Materials: Child-sized broom, hand broom, short handled dustpan, an area of floor marked off for sweeping, material to be swept (paper shavings, elbow macaroni, beans, etc.), and a garbage can.
+Presentation:   Invite the child to sweep.
+  Carry a basket filled with the materials to be swept (macaroni) to an area of the floor marked off for sweeping.
+  Grasp one handful of elbow macaroni. Slowly and gracefully sprinkle them on the floor.</description>
+    </item>
+    
+    <item>
       <title>Tower of Cubes</title>
-      <link>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</link>
+      <link>https://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</link>
       <pubDate>Sun, 29 Mar 2020 18:32:05 -0700</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</guid>
+      <guid>https://missamanda.blog/lesson-plans/sensorial/visual/tower-of-cubes/</guid>
       <description>Tower of Cubes
   Materials: Ten solid wooden cubes the largest of which is 10 cm3 the smallest of which is 1 cm3. Each cube decreases in size by 1 cm3.
 Presentation:   Invite the child to work with the tower of cubes.
@@ -53,23 +65,11 @@ Presentation:   Invite the child to work with the tower of cubes.
     </item>
     
     <item>
-      <title>Floor Sweeping</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</link>
-      <pubDate>Sun, 29 Mar 2020 12:57:46 -0700</pubDate>
-      
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/floor-sweeping/</guid>
-      <description>Materials: Child-sized broom, hand broom, short handled dustpan, an area of floor marked off for sweeping, material to be swept (paper shavings, elbow macaroni, beans, etc.), and a garbage can.
-Presentation:   Invite the child to sweep.
-  Carry a basket filled with the materials to be swept (macaroni) to an area of the floor marked off for sweeping.
-  Grasp one handful of elbow macaroni. Slowly and gracefully sprinkle them on the floor.</description>
-    </item>
-    
-    <item>
       <title>Dishwashing</title>
-      <link>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dishwashing/</link>
+      <link>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dishwashing/</link>
       <pubDate>Fri, 20 Mar 2020 13:00:17 -0700</pubDate>
       
-      <guid>http://missamanda.blog/lesson-plans/practical-life/care-of-environment/dishwashing/</guid>
+      <guid>https://missamanda.blog/lesson-plans/practical-life/care-of-environment/dishwashing/</guid>
       <description>Dishwashing
   Materials: Table, two dishpans, soap, soap dish, sponge, brush, pitcher, bucket, dishes, drainer, draining mat, towel, apron
 Presentation:   Invite the child to wash dishes.
