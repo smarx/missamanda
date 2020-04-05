@@ -1,6 +1,9 @@
 <head>
     <title>{{.Title}} - {{ $.Site.Title}}</title>
     <link rel='canonical' href='{{ .Permalink }}' />
+    {{- with $.Site.Home.OutputFormats.Get "rss" -}}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{- end -}}
     {{ partial "head/meta" .}}
     {{ partial "head/style" .}}
     {{ template "_internal/opengraph.html" . }}
