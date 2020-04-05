@@ -154,7 +154,6 @@ p {
 
 form.subscribe {
   background-color: #96ccff;
-  border-radius: .25rem;
   margin-top: 80px;
   border: 1px solid #ccc;
   padding: 24px;
@@ -162,23 +161,19 @@ form.subscribe {
 }
 
 form.subscribe .email {
-  float: left;
-  width: 80%;
+  width: 100%;
   padding: 16px;
-  border-radius: .25rem;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
   border: none;
   font-size: 14px;
 }
 
 form.subscribe .submit {
-  float: left;
-  width: 20%;
+  width: 100%;
   padding-top: 16px;
-  border-radius: .25rem;
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
   border: none;
   padding-bottom: 16px;
   background-color: rgba(0,0,0,.7);
@@ -186,6 +181,22 @@ form.subscribe .submit {
   font-size: 14px;
   cursor: pointer;
   transition: background-color .15s ease-in-out;
+}
+
+@media screen and (min-width: 30em) {
+  form.subscribe, form.subscribe .email, form.subscribe .submit {
+    border-radius: .25rem;
+  }
+
+  form.subscribe .email {
+    float: left;
+    width: 80%;
+  }
+
+  form.subscribe .submit {
+    float: left;
+    width: 20%;
+  }
 }
 
 form.subscribe .submit:hover {
