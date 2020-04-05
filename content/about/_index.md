@@ -1,6 +1,5 @@
 ---
-title: ABOUT
-description: Hi, I'm Miss Amanda
+title: About
 images: ["/images/mandy.jpg"]
 ---
 

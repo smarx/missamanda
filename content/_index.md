@@ -1,6 +1,5 @@
 ---
-title: HOME
-description: Hi! I'm Miss Amanda, a Montessori teacher.
+title: Home
 images: ["/toddler.jpg"]
 ---
 

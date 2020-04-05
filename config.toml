@@ -5,6 +5,10 @@ theme = "personal-web"
 publishDir = "docs"
 cleanDestinationDir = true
 
+[params]
+  title = "Miss Amanda"
+  description = "a growing collection of Montessori lesson plans, articles, and blog posts about Montessori education"
+
 [params.sidebar]
   logo = "mandy.jpg"
   backgroundImage = "toddler.jpg"
@@ -15,6 +19,7 @@ cleanDestinationDir = true
 
 [params.assets]
   customCSS = "/style.css"
+  favicon = "/favicon.png"
 
 [taxonomies]
   age = "ages"
