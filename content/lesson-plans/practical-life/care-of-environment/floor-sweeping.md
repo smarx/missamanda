@@ -34,7 +34,7 @@ Child-sized broom, hand broom, short handled dustpan, an area of floor marked of
 
 7. Obtain the dustpan and hand broom. 
 
-8. Bend, hold dustpan firmly with subdominant hand on one line of the marked off area.  With dominant hand, sweep the macaroni into the dustpan.
+8. Bend, hold dustpan firmly with subdominant hand on one line of the marked off area.  With dominant hand, sweep the macaroni into the dustpan.  {{< figure src="/Practical Life/dustpan1.jpg" width="250px" >}}
 
 9. Hold the hand broom on the edge of the dustpan to keep the macaroni from falling off of the dustpan.  
 

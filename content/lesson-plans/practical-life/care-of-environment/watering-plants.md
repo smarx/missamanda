@@ -15,11 +15,11 @@ skills:
  - "pouring"
 ---
 
-{{< figure src="/Practical Life/plant watering 1.jpg" caption="set up" width="230px" class="left" >}} {{< figure src="/Practical Life/plant watering 2.jpg" caption="watering plants" width="213px" class="right" >}}
+{{< figure src="/Practical Life/plant watering 1.jpg" width="230px" class="left" >}} {{< figure src="/Practical Life/plant watering 2.jpg" width="213px" class="right" >}}
 
 ## Materials:
 
-An indoor plant at the child's height, tray, *small* watering can, sponge, and floor towel.
+An indoor plant at the child's height, tray, small watering can, sponge, and floor towel.
 
 ## Presentation
 

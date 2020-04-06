@@ -15,6 +15,8 @@ skills:
 - "phoneme isolation"
 ---
 
+{{< figure src="/language/I spy.jpg" caption="I spy items" width="350px" >}}
+
 ## Materials:
 
 Objects that use the 40 key sounds / phonemes (see [Key Sounds]({{< ref "articles/key-sounds.md" >}})) and contains only 3 of these sounds per object/word.
@@ -99,6 +101,8 @@ Use objects in the environment, use pictures of items, use fixed items in boxes 
 Use more than 3 sounds in a word, ask the child to pick any word and break it down into component sounds, see how many words the child can think of that begin with or contain any one sound.
 
 ## Comments:
+
+- The items in the photo above include: bat, otter, mug, duck, corn, rat, van, fox, sun, dog, fish, kite, jeep, log, goat, mop, rose.  I have two "I Spy" boxes containing 8-10 items each. 
 
 - This is a key activity in the development of written language.
 
