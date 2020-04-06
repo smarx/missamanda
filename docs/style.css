@@ -153,6 +153,7 @@ p {
 }
 
 form.subscribe {
+  display: none;
   background-color: #96ccff;
   margin-top: 80px;
   border: 1px solid #ccc;
