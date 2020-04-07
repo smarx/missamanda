@@ -67,6 +67,6 @@ After plant is watered, a small flag that says, "I've been watered" can be place
 
 ## Comments:
 
-Below is a picture of leaf polishing.  Please reference the [Polishing a Mirror]({{< ref "lesson-plans\practical-life\care-of-environment\polishing-a-mirror.md" >}}) lesson plan for step by step instructions.
+Below is a picture of leaf polishing.  Please reference the [Polishing a Mirror]({{< ref "lesson-plans/practical-life/care-of-environment/polishing-a-mirror.md" >}}) lesson plan for step by step instructions.
 
 {{< figure src="/Practical Life/leaf polishing.jpg" caption="leaf polishing" width="300px" >}}
