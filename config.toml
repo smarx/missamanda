@@ -4,6 +4,7 @@ title = "Miss Amanda"
 theme = "personal-web"
 publishDir = "docs"
 cleanDestinationDir = true
+googleAnalytics = "UA-163160597-1"
 
 [params]
   title = "Miss Amanda"
