@@ -1,6 +1,7 @@
 ---
 title: "Clamping Clothespins"
 date: 2020-04-19T12:40:30-07:00
+weight: 700
 ages:
 # - 2
 # - 3

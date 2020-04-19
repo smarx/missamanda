@@ -1,6 +1,7 @@
 ---
 title: "Sorting"
 date: 2020-04-19T12:40:38-07:00
+weight: 800
 ages:
 # - 2
 # - 3
