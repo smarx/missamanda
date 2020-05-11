@@ -8,8 +8,6 @@ Skills:
 - "independence"
 ---
 
-
-
 {{< figure src="/Practical Life/PL objectives.jpg" width= "400px" >}}
 
 [The lessons in Practical Life]({{< ref "/lesson-plans/practical-life" >}}) are the foundation of Montessori education. As students practice in the Practical Life area of the classroom, they are developing the aptitudes for order, concentration, and coordination. At the same time, by caring for their own needs, the classroom environment, and helping others, children in a Montessori program develop independence, self-confidence, and self-respect.
