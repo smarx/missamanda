@@ -79,5 +79,3 @@ Use a variety of materials (beans, shells, beads, pasta, rocks, cotton balls, et
 Use tools: spoon, tongs, scoop, tweezers, etc.
 
 ## Comments:
-
-
