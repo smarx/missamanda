@@ -3,8 +3,10 @@ title: "Using a Dropper"
 date: 2020-04-19T12:41:07-07:00
 weight: 1200
 ages:
-# - 2
-# - 3
+- 2
+- 3
+- 4
+- 5
 skills:
 - "hand-eye coordination"
 - "order"
@@ -69,7 +71,7 @@ The appearance of the materials, color and texture of materials, water, squeezin
 
 ## Language:
 
-Dropper, squeeze, release, empty, full, wipe, pipette, bulb
+- Dropper, squeeze, release, empty, full, wipe, pipette, bulb
 
 ## Variations:
 
@@ -82,5 +84,3 @@ Dropping liquid into suction cups, using a baster, using a dropper to measure li
 ## Comments:
 
 - As a first lesson, I would ensure that the containers are extremely small.  As always, test the material before the children use it.  You should be able to transfer all of the liquid from the first container in 5 or fewer full droppers.
-
-
