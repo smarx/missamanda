@@ -1,5 +1,9 @@
 html { background-color: transparent; }
 
+h1 {
+  line-height: 1em;
+}
+
 header .intro h2 {
   font-size: 24px;
 }
